@@ -100,6 +100,10 @@ Refer to help for the directory setup and the different analysis stages:
 
 ```bash
 cd Bayesian_GW_project_2026/src
+python main.py -h
+```
+
+```bash
 usage: main.py [-h] [-out OUTPUT_DIR] [-in INPUT_DIR] [-wss] [-prior] [-bayes] [-bp BANDPASS BANDPASS]
 
 LIGO-Hanford data (GW150914) analysis pipeline.
