@@ -1,0 +1,6 @@
+pathlib
+numpy
+pandas
+matplotlib
+scipy
+loguru
