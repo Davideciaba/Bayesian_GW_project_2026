@@ -115,7 +115,7 @@ Executes three main points of the analysis:
 options:
   -h, --help            show this help message and exit
   -out OUTPUT_DIR, --output-dir OUTPUT_DIR
-                        Target root directory for all outputs. (default: sBayesian_GW_project_2026\Plots)
+                        Target root directory for all outputs. (default: Bayesian_GW_project_2026/Plots)
   -in INPUT_DIR, --input-dir INPUT_DIR
                         Source directory containing LIGO-Hanford data (GW150914). (default: Bayesian_GW_project_2026)
   -wss, --wss-point     Execute first point of the analysis (WSS and time scale). (default: False)
